@@ -22,6 +22,7 @@ Python/Flask で作成された、ユーザー認証と管理機能を備えたW
 
 * Python3
 * pipenv
+* sqlite3 コマンド
 
 ### インストール方法
 
