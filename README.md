@@ -7,6 +7,17 @@ Python/Flask で作成された、ユーザー認証と管理機能を備えたW
 
 演習１，２，３で使用します。
 
+## Disclaimer
+
+This repository is intended for training purposes only.
+
+It intentionally includes outdated or vulnerable dependencies to demonstrate
+Software Composition Analysis (SCA) findings.
+
+Dependencies are not fully hardened for production use.
+
+Do NOT use this project in production environments.
+
 ## 主な機能
 
 - ユーザー認証（ユーザー名/パスワード）
